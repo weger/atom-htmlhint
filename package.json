@@ -1,0 +1,18 @@
+{
+  "name": "atom-htmlhint",
+  "main": "./lib/atom-htmlhint",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-htmlhint:toggle"
+  },
+  "repository": "https://github.com/weger/atom-htmlhint",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
