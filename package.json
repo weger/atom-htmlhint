@@ -2,7 +2,7 @@
   "name": "atom-htmlhint",
   "main": "./lib/atom-htmlhint",
   "version": "1.0.0",
-  "description": "A short description of your package",
+  "description": "HTML Code Analysis Tool for Atom Package",
   "keywords": [
   ],
   "activationCommands": {
